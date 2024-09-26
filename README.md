@@ -1,8 +1,21 @@
-# React + Vite
+Built a RecipeHub | React & TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/c2c9e62d-7be5-44d0-b4c7-8401fffe1be4)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌟 React + Tailwind + EDAMAM API
+🎃 Build Responsive Design
+
+Run Locally
+Setup .env file
+
+VITE_APP_ID = your_edamam_app_id;
+VITE_APP_KEY = your_edamam_app_key;
+
+Install dependencies
+
+npm install
+
+Start the app
+
+npm run dev
