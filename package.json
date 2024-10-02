@@ -8,7 +8,8 @@
     "serve": "vite preview --port $PORT",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "postinstall": "npm install vite"
   },
   "dependencies": {
     "lucide-react": "^0.437.0",
