@@ -4,12 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-   "preinstall": "npm install",  
-  "dev": "vite",
-  "serve": "vite preview --port $PORT",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview"
+    "dev": "vite",
+    "serve": "vite preview --port $PORT",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
   },
   "dependencies": {
     "lucide-react": "^0.437.0",
