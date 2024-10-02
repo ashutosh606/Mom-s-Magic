@@ -20,5 +20,8 @@ Start the app
 
 npm run dev
 
-You can check out the live demo of this project [here]([https://your-live-link.com](https://mom-s-magic.onrender.com/))
+## Live Demo
+
+You can check out the live project [here](https://mom-s-magic.onrender.com/).
+
 
