@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-   "preinstall": "npm install",  // Ensures dependencies are installed before anything else
+   "preinstall": "npm install",  
   "dev": "vite",
   "serve": "vite preview --port $PORT",
   "build": "vite build",
