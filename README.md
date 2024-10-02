@@ -19,3 +19,6 @@ npm install
 Start the app
 
 npm run dev
+
+You can check out the live demo of this project [here]([https://your-live-link.com](https://mom-s-magic.onrender.com/))
+
