@@ -1,8 +1,4 @@
 {
-
-  "engines": {
-    "node": "10.8.1"
-  },
   "name": "moms-magic-recipe-finder-",
   "private": true,
   "version": "0.0.0",
